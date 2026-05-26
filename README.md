@@ -1,2 +1,3 @@
-# DK
-Add a project discription
+# DK Project
+
+This repository was updated directly from GitHub website
